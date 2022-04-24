@@ -11,6 +11,11 @@
 # production
 /build
 
+# dummy content
+/src/dummy.json
+
+/src/styles/fonts
+
 # misc
 .DS_Store
 .env.local
